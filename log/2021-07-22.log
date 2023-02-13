@@ -1,0 +1,41 @@
+{
+    "model": "ResNeXt50",
+    "optimizer": "Adam",
+    "loss function": "Cross Entropy",
+    "timestamp": "2021-07-22 13:05:12",
+    "num_epoch": 1,
+    "learning_rate": 1e-06,
+    "momentum": 0.9,
+    "step_size": 20,
+    "gamma": 0.1,
+    "last_train_acc": 0.60131,
+    "best_train_acc": 0.60131,
+    "last_train_loss": 0.89181,
+    "best_train_loss": 0.89181,
+    "last_train_f1": 0.56606,
+    "best_train_f1": 0.56606,
+    "last_val_acc": 0.44,
+    "best_val_acc": 0.44,
+    "last_val_loss": 1.06702,
+    "best_val_loss": 1.06702,
+    "last_val_f1": 0.44,
+    "best_val_f1": 0.44,
+    "train_accuracies": [
+        0.6013148626438131
+    ],
+    "train_losses": [
+        0.8918074864573142
+    ],
+    "train_f1_list": [
+        0.5660583060231453
+    ],
+    "val_accuracies": [
+        0.44
+    ],
+    "val_losses": [
+        1.0670158386230468
+    ],
+    "val_f1_list": [
+        0.44
+    ]
+}
